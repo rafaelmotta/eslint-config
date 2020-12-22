@@ -2,11 +2,11 @@
 
 ## Description
 
-This is an internal project used for sharing common eslint rules across all the front-end packages at Obelisk.
+This is an internal project used for sharing common eslint rules across all the javascript packages at Obelisk.
 
 ## Installation
 
-In your front-end package, run:
+In your javascript package, run:
 
 ```
 yarn add @obelisk/eslint-config -D
