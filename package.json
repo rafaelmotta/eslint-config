@@ -1,6 +1,6 @@
 {
-  "name": "@obeliskbr/eslint-config",
-  "version": "1.0.2",
+  "name": "@rafaelmotta/eslint-config",
+  "version": "1.0.0",
   "private": false,
   "main": "index.js",
   "keywords": [],
